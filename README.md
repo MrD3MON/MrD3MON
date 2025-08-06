@@ -5,7 +5,7 @@
 ### <div align="center">I am Ishaan🧙‍♂️</div>  
   
 
-- **🏫B.Tech Final Year Student**  
+- **🏫Software Developer**  
   
 
 - 🔐 Unravelling digital enigmas as a Web/App Software Developer and Networking enthusiast  
@@ -14,7 +14,7 @@
 - 🌐 Venturing into web development, where lines of code transform into mesmerizing user experiences  
   
 
-- ⚽Engaging in football and basketball is also part of my journey🏀  
+- ⚽Engaging in football and games is also part of my journey🏀  
   
 
 <br/>  
@@ -25,7 +25,7 @@
 
 <div align = 'center' >
   <h2> Click Here To See My Resume </h2>
- <a href="https://drive.google.com/file/d/1q8IZ6VEuLem4S2mfj8m4EkniLI0oaEIG/view?usp=sharing">
+ <a href="https://drive.google.com/file/d/1PXfeZl8bF8-4qWkRRLDmfdqBR79EvCTl/view?usp=sharing">
  <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>
